@@ -3,7 +3,7 @@
  * Put comments in your code
  * Should NOT use array
  * Follow Style Guide provided in BB
- * Follow freedom of information and gilligans island rule
+ * Follow freedom of Information and Gilligans island rule
  * Discussed with: XXX
  **/
 
