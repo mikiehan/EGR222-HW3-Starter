@@ -1,8 +1,3 @@
-import java.awt.*;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-
 public class BabyNames {
 
     //class constants for open area in graphics (Do NOT change)
@@ -29,7 +24,7 @@ public class BabyNames {
 
     // YOU ARE NOT ALLOWED TO ADD ANY OTHER CONSTANTS THAN ABOVE
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) {
         //Remove this comment and below line and implement your code
         System.out.println("Import Success! Now delete this code and implement your own!");
     }
